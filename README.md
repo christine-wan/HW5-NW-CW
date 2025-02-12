@@ -1,3 +1,5 @@
+![HW5-NW](https://github.com/christine-wan/HW5-NW-CW/actions/workflows/test.yml/badge.svg?event=push)
+
 # Project 5
 Needleman Wunsch Algorithm
 
